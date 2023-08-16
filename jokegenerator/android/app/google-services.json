@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031355420951",
+    "project_id": "joke-generator-app-b4704",
+    "storage_bucket": "joke-generator-app-b4704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031355420951:android:3948bd6083924c17496752",
+        "android_client_info": {
+          "package_name": "com.example.jokegenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031355420951-kcrup8o3qvtpio1j0jltai5n8a6gclc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASOf-2K1oegHeDTV24YEkG5iU0ASq7dks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031355420951-kcrup8o3qvtpio1j0jltai5n8a6gclc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
